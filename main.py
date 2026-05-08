@@ -32,7 +32,7 @@ st.header("|EXPERIENCES PROFESIONNELLES")
 st.subheader(" 18/09/2025 Stage en BAMBAYE dans un champ familial")
 st.markdown("Participation aux activités agricoles familiales dans les champs de mes grands-parents, incluant la récolte quotidienne de mil, d’arachide, de niébé et de feuilles de baobab, ainsi que leur transformation en produits alimentaires traditionnels . ")
      
-st.subheader("|COMPETENCES ET LOGICIELS")
+st.header("|COMPETENCES ET LOGICIELS")
 st.markdown(" 2022-2023 Chargée de la commution et de l'information du club scientifique du Lycée de Thiaroyee")
 st.write("•	Capacité à travailler en équipe")
 st.write("•	Capacité à interagir efficacement avec les autres")
