@@ -34,32 +34,21 @@ st.markdown("Participation aux activités agricoles familiales dans les champs d
      
 st.header("|COMPETENCES ET LOGICIELS")
 st.subheader("Compétences Techniques")
-st.markdown(""" •	Maîtrise des bases de l’agroécologie
-	•	Connaissance des techniques agricoles durables
-	•	Gestion de la fertilité des sols
-	•	Production végétale et animale
-	•	Techniques de compostage et de fertilisation naturelle
-	•	Gestion rationnelle de l’eau et de l’irrigation
-	•	Protection des cultures contre les maladies et ravageurs
-	•	Suivi et entretien des exploitations agricoles
-	•	Sensibilisation aux enjeux environnementaux et climatiques """)
+st.write("•	Maîtrise des bases de l’agroécologie")
+st.write("•	Connaissance des techniques agricoles durables")
+st.write("•Gestion de la fertilité des sols")
+st.write("•Production végétale et animale")
+st.write("•Techniques de compostage et de fertilisation naturelle")
+st.write("•Gestion rationnelle de l’eau et de l’irrigation")
 st.subheader("Compétences Pratiques")
-st.mardown("""  •	Capacité à travailler sur le terrain
-	•	Collecte et analyse de données agricoles
-	•	Utilisation des outils et équipements agricoles
-	•	Organisation des activités agricoles
-	•	Suivi de projets agricoles et communautaires """)
+st.write("•Collecte et analyse de données agricoles")
+st.write("•Utilisation des outils et équipements agricoles")
+st.write("•Organisation des activités agricoles")
 st.subheader("Compétences Personnelles")
-st.markdown("""  •	Esprit d’équipe
-	•	Sens de l’organisation
-	•	Bonne capacité d’adaptation
-	•	Communication avec les producteurs et communautés rurales
-	•	Sens des responsabilités
-	•	Dynamisme et autonomie
-	•	Capacité d’observation et d’analyse """)
-
-
-
+st.write("•Sens des responsabilités")
+st.write("•Capacité d’observation et d’analyse")
+st.subgeader("Compétences en Bureautique")
+st.write("•Pack office")
 
 
         
