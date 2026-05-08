@@ -44,13 +44,13 @@ st.markdown(""" •	Maîtrise des bases de l’agroécologie
 	•	Suivi et entretien des exploitations agricoles
 	•	Sensibilisation aux enjeux environnementaux et climatiques """)
 st.subheader("Compétences Pratiques")
-st.mardown(""" •	Capacité à travailler sur le terrain
+st.mardown("""  •	Capacité à travailler sur le terrain
 	•	Collecte et analyse de données agricoles
 	•	Utilisation des outils et équipements agricoles
 	•	Organisation des activités agricoles
 	•	Suivi de projets agricoles et communautaires """)
 st.subheader("Compétences Personnelles")
-st.markdown(""" •	Esprit d’équipe
+st.markdown("""  •	Esprit d’équipe
 	•	Sens de l’organisation
 	•	Bonne capacité d’adaptation
 	•	Communication avec les producteurs et communautés rurales
