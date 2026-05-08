@@ -33,14 +33,31 @@ st.subheader(" 18/09/2025 Stage en BAMBAYE dans un champ familial")
 st.markdown("Participation aux activités agricoles familiales dans les champs de mes grands-parents, incluant la récolte quotidienne de mil, d’arachide, de niébé et de feuilles de baobab, ainsi que leur transformation en produits alimentaires traditionnels . ")
      
 st.header("|COMPETENCES ET LOGICIELS")
-st.markdown(" 2022-2023 Chargée de la commution et de l'information du club scientifique du Lycée de Thiaroyee")
-st.write("•	Capacité à travailler en équipe")
-st.write("•	Capacité à interagir efficacement avec les autres")
-st.write("•	Capacité d’analyse face aux problèmes et sens de l’observation")
-st.write("•	Compétences en communication : savoir trouver les mots justes et utiliser un langage approprié pour convaincre")
-st.write("•	Capacité d’écoute : être attentif, comprendre et répondre efficacement aux autres")
-st.write("•	Maîtrise de certains logiciels : Pack office")
-   
+st.subheader("Compétences Techniques")
+st.markdown("""•	Maîtrise des bases de l’agroécologie
+	•	Connaissance des techniques agricoles durables
+	•	Gestion de la fertilité des sols
+	•	Production végétale et animale
+	•	Techniques de compostage et de fertilisation naturelle
+	•	Gestion rationnelle de l’eau et de l’irrigation
+	•	Protection des cultures contre les maladies et ravageurs
+	•	Suivi et entretien des exploitations agricoles
+	•	Sensibilisation aux enjeux environnementaux et climatiques""")
+st.subheader("Compétences Pratiques")
+st.mardown("""•	Capacité à travailler sur le terrain
+	•	Collecte et analyse de données agricoles
+	•	Utilisation des outils et équipements agricoles
+	•	Organisation des activités agricoles
+	•	Suivi de projets agricoles et communautaires""")
+st.subheader("Compétences Personnelles")
+st.markdown("""•	Esprit d’équipe
+	•	Sens de l’organisation
+	•	Bonne capacité d’adaptation
+	•	Communication avec les producteurs et communautés rurales
+	•	Sens des responsabilités
+	•	Dynamisme et autonomie
+	•	Capacité d’observation et d’analyse""")
+
 
 
 
