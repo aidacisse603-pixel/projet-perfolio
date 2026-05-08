@@ -34,7 +34,7 @@ st.markdown("Participation aux activités agricoles familiales dans les champs d
      
 st.header("|COMPETENCES ET LOGICIELS")
 st.subheader("Compétences Techniques")
-st.markdown("""•	Maîtrise des bases de l’agroécologie
+st.markdown(""" •	Maîtrise des bases de l’agroécologie
 	•	Connaissance des techniques agricoles durables
 	•	Gestion de la fertilité des sols
 	•	Production végétale et animale
@@ -42,21 +42,21 @@ st.markdown("""•	Maîtrise des bases de l’agroécologie
 	•	Gestion rationnelle de l’eau et de l’irrigation
 	•	Protection des cultures contre les maladies et ravageurs
 	•	Suivi et entretien des exploitations agricoles
-	•	Sensibilisation aux enjeux environnementaux et climatiques""")
+	•	Sensibilisation aux enjeux environnementaux et climatiques """)
 st.subheader("Compétences Pratiques")
-st.mardown("""•	Capacité à travailler sur le terrain
+st.mardown(""" •	Capacité à travailler sur le terrain
 	•	Collecte et analyse de données agricoles
 	•	Utilisation des outils et équipements agricoles
 	•	Organisation des activités agricoles
-	•	Suivi de projets agricoles et communautaires""")
+	•	Suivi de projets agricoles et communautaires """)
 st.subheader("Compétences Personnelles")
-st.markdown("""•	Esprit d’équipe
+st.markdown(""" •	Esprit d’équipe
 	•	Sens de l’organisation
 	•	Bonne capacité d’adaptation
 	•	Communication avec les producteurs et communautés rurales
 	•	Sens des responsabilités
 	•	Dynamisme et autonomie
-	•	Capacité d’observation et d’analyse""")
+	•	Capacité d’observation et d’analyse """)
 
 
 
