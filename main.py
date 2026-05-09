@@ -17,7 +17,7 @@ with st.sidebar:
      st.subheader("INFOS PERSONNELS")
      st.image("WhatsApp Image 2025-09-29 à 01.22.45_4edf5f0b.jpg", width = 190)
      st.write("📍:     Dakar, SENEGAL")
-     st.write("📧:    Email: cisse.aida@uam.edu.sn")
+     st.write("📧:    Email: aidacisse603@gmail.com")
 
      st.markdown("N'hésitez pas à me contacter par e-mail, je vous repondrai dans les plus bref delais.")
 
